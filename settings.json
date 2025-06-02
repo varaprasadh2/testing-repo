@@ -2,8 +2,5 @@
   "version": "1.0",
   "name": "my-app",
   "configs": [
-    {
-      "threshold": 100
-    }
   ]
 }
